@@ -1,5 +1,7 @@
 # 超强vim配置文件
 
+代码来自：https://github.com/ma6174/vim
+
 [![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
 
 ### 运行截图
